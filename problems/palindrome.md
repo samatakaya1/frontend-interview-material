@@ -1,10 +1,20 @@
+[/ Меню](https://github.com/samatakaya1/Interview-material/blob/main/README.md)   [/ Список задач](https://github.com/samatakaya1/Interview-material/blob/main/problems/README.md)
+---
 # Задача "Палиндром"
 
+<details>
+<summary>Палиндром</summary>
+<br/>
 
-> Палиндром — слово, предложение или последовательность символов,
+> Cлово, предложение или последовательность символов,
 > которая абсолютно одинаково читается как в привычном направлении, так
 > и в обратном. К примеру, “Anna” — это палиндром, а “table” и “John” —
 > нет.
+
+</details>
+
+
+
 
 
 ## Постановка
@@ -28,3 +38,5 @@ const palindrome = str => {
   return str === str.split('').reverse().join('')
 }
 ```
+---
+[<- К списку задач](https://github.com/samatakaya1/Interview-material/blob/main/problems/README.md)

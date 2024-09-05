@@ -39,4 +39,4 @@ const palindrome = str => {
 }
 ```
 ---
-[<- К списку задач](https://github.com/samatakaya1/Interview-material/blob/main/problems/README.md)
+[<- К списку задач](https://github.com/samatakaya1/Interview-material/blob/main/problems/problems.md)

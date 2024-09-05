@@ -134,4 +134,4 @@ var flat = function(arr, n) {
 - Пространственная сложность: В худшем случае — **O(n)** из-за возможного максимального размера стека.
 
 ---
-[<- К списку задач](https://github.com/samatakaya1/Interview-material/blob/main/problems/README.md)
+[<- К списку задач](https://github.com/samatakaya1/Interview-material/blob/main/problems/problems.md)

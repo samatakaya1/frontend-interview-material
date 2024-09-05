@@ -152,4 +152,4 @@ class Queue {
     - Просто возвращаем сумму длины массивов **stack1** и **stack2**, что занимает **O(1)** времени.
 
 ---
-[<- К списку задач](https://github.com/samatakaya1/Interview-material/blob/main/problems/README.md)
+[<- К списку задач](https://github.com/samatakaya1/Interview-material/blob/main/problems/problems.md)

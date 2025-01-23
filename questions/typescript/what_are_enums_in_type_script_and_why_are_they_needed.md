@@ -1,4 +1,9 @@
-### Что такое перечисления (Enums) в TypeScript, и зачем они нужны?
+[/ Меню](https://github.com/samatakaya1/Interview-material/blob/main/README.md)   [/ Список тем](https://github.com/samatakaya1/Interview-material/blob/main/questions/questions.md) [/ Список вопросов](https://github.com/samatakaya1/Interview-material/blob/main/questions/typescript/typescript.md)
+---
+
+# Что такое перечисления (Enums) в TypeScript, и зачем они нужны?
+
+---
 
 **Перечисления (Enums)** в TypeScript — это особый тип данных, который используется для создания именованных констант. Они помогают группировать связанные значения и упрощают работу с фиксированными наборами данных, улучшая читаемость и поддержку кода.
 

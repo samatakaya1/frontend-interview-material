@@ -9,6 +9,7 @@
 - **[Преобразование массива чисел в строку с диапазонами](https://github.com/samatakaya1/javascript-interview-material/blob/main/problems/converting_an_array_of_numbers_to_a_string_with_ranges.md)**
 - **[Реализовать функцию debounce](https://github.com/samatakaya1/Interview-material/blob/main/problems/debounce.md)**
 - **[Реализовать функцию throttle](https://github.com/samatakaya1/Interview-material/blob/main/problems/throttle.md)**
+- **[Реализовать функцию groupBy](https://github.com/samatakaya1/Interview-material/blob/main/problems/group-by.md)**
 
 
 ---

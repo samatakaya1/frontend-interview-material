@@ -7,6 +7,7 @@
 - **[🟢 Чем отличается абсолютный путь от относительного в ссылках (`<a href>` и `<img src>`)?](https://github.com/samatakaya1/Interview-material/blob/main/questions/html/what_is_the_difference_between_an_absolute_path_and_a_relative_one_in_links.md)**
 - **[🟢 Что такое семантические теги в HTML?](https://github.com/samatakaya1/Interview-material/blob/main/questions/html/what_are_semantic_tags_in_html.md)**
 - **[🟢 Чем отличаются `block`, `inline` и `inline-block` элементы?](https://github.com/samatakaya1/Interview-material/blob/main/questions/html/what_is_the_difference_between_block_inline_and_inline_block_elements.md)**
+- **[🟢 Как работают HTML-формы и зачем нужны `label`, `name` и `input type`?](https://github.com/samatakaya1/Interview-material/blob/main/questions/html/how_html_forms_work_and_why_label_name_and_input_type_are_needed.md)**
 
 
 

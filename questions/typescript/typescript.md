@@ -8,6 +8,7 @@
 - **[🟢 Какие типы перечислений поддерживаются в TypeScript?](https://github.com/samatakaya1/Interview-material/blob/main/questions/typescript/what_types_of_enumerations_are_supported_in_type_script.md)**
 - **[🟢 Что такое Generics в TypeScript?](https://github.com/samatakaya1/Interview-material/blob/main/questions/typescript/what_are_generics_in_type_script.md)**
 - **[🟢 Чем отличаются `type` и `interface`?](https://github.com/samatakaya1/Interview-material/blob/main/questions/typescript/what_is_the_difference_between_type_and_interface.md)**
+- **[🟢 Что такое narrowing в TypeScript?](https://github.com/samatakaya1/Interview-material/blob/main/questions/typescript/what_is_type_narrowing_in_type_script.md)**
 
 
 

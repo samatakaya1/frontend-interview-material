@@ -7,6 +7,7 @@
 - **[🟢 Чем отличаются unit, integration и e2e тесты?](https://github.com/samatakaya1/Interview-material/blob/main/questions/testing/what_is_the_difference_between_unit_integration_and_e2e_tests.md)**
 - **[🟢 Что такое mock, stub и spy в тестировании?](https://github.com/samatakaya1/Interview-material/blob/main/questions/testing/what_are_mock_stub_and_spy_in_testing.md)**
 - **[🟢 Что такое test pyramid во frontend-тестировании?](https://github.com/samatakaya1/Interview-material/blob/main/questions/testing/what_is_the_test_pyramid_in_frontend_testing.md)**
+- **[🟢 Как выбирать запросы (queries) в React Testing Library?](https://github.com/samatakaya1/Interview-material/blob/main/questions/testing/how_to_choose_queries_in_react_testing_library.md)**
 
 
 ---

@@ -7,6 +7,7 @@
 - **[🟢 Что такое Big O notation?](https://github.com/samatakaya1/Interview-material/blob/main/questions/data-structures-and-algorithms/what_is_big_o_notation.md)**
 - **[🟢 Чем отличаются stack и queue?](https://github.com/samatakaya1/Interview-material/blob/main/questions/data-structures-and-algorithms/what_is_the_difference_between_stack_and_queue.md)**
 - **[🟢 Что такое hash map и когда её использовать?](https://github.com/samatakaya1/Interview-material/blob/main/questions/data-structures-and-algorithms/what_is_a_hash_map_and_when_to_use_it.md)**
+- **[🟢 Что такое рекурсия и когда её использовать?](https://github.com/samatakaya1/Interview-material/blob/main/questions/data-structures-and-algorithms/what_is_recursion_and_when_to_use_it.md)**
 
 
 ---

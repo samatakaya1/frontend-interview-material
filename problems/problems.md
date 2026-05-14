@@ -10,6 +10,7 @@
 - **[Реализовать функцию debounce](https://github.com/samatakaya1/Interview-material/blob/main/problems/debounce.md)**
 - **[Реализовать функцию throttle](https://github.com/samatakaya1/Interview-material/blob/main/problems/throttle.md)**
 - **[Реализовать функцию groupBy](https://github.com/samatakaya1/Interview-material/blob/main/problems/group-by.md)**
+- **[Реализовать функцию memoize](https://github.com/samatakaya1/Interview-material/blob/main/problems/memoize.md)**
 
 
 ---
